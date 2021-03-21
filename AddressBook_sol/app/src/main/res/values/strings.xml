@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AddressBook_sol</string>
+    <string name="title">[MY ADDRESS BOOK]</string>
+    <string name="name">NAME</string>
+    <string name="phone">PHONE</string>
+    <string name="email">EMAIL</string>
+    <string name="add">ADD</string>
+    <string name="del">DEL</string>
+    <string name="nothing">NOTHING</string>
+    <string name="add_msg">You must enter three items.</string>
+    <string name="del_msg">No message to delete</string>
+    <string name="setting">SETTING</string>
+    <string name="id">ID</string>
+    <string name="input_name">input name</string>
+    <string name="modify">MODIFY</string>
+    <string name="white">WHITE</string>
+    <string name="dark">DARK</string>
+    <string name="blue">BLUE</string>
+    <string name="auto_save">Auto save</string>
+    <string name="connect_wifi">"Auto connect WiFi "</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="user">· USER</string>
+    <string name="thema">· THEMA</string>
+    <string name="select">· SELECT</string>
+    <string name="address">ADDRESS</string>
+</resources>
